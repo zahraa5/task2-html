@@ -1,4 +1,5 @@
 # task2html
+<!DOCTYPE html>
 <html>
 
 <head>
